@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'ipstore-trd'
+project = 'ipstore'
 copyright = '2025, 迪普希'
 author = '迪普希'
 release = '0.0.1'
