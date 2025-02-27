@@ -3,17 +3,23 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to ipstore_doc's documentation!
+Welcome to documentation!
 =======================================
 
+介绍所有的IP和使用方法
+
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: 目录:
+   :hidden: 
+
+
+   ipstore/bus/link.rst
+   ipstore/bus/bus.rst
+   ipstore/bus/Perial.rst
 
 
 
-Indices and tables
-==================
 
 * :ref:`genindex`
 * :ref:`modindex`
